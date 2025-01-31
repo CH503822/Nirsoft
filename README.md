@@ -19,9 +19,9 @@
 # 關於 Nirsoft 軟體 中文化 專案
 　　這是一個本著「**免費**」和「**自願**」的原則，協助 [**Nirsoft**](http://www.nirsoft.net) 的 [***Nir Sofer***](http://www.nirsoft.net/about_nirsoft_freeware.html)，將其開發的「**免費實用公用程式**」翻譯為**中文**的**軟體中文化專案**；
 
-　　所有在此網站上列出的**中文化**語言檔案，均由志願者 [***Bojun Li***](httpS://www.libojun.com/localization/nirsoft/) ([ **李柏均**](httpS://www.libojun.com/localization/nirsoft/)) 獨立完成編譯；
+　　所有在此網站上列出的**中文化**語言檔案，均由志工 [***Bojun Li***](httpS://www.libojun.com/localization/nirsoft/) ([ **李柏均**](httpS://www.libojun.com/localization/nirsoft/)) 獨立完成編譯；
 
 　　如果您在使用的過程中遇到任何問題，或對**中文翻譯**方面有任何的意見或建議，歡迎透過 ***Nirsoft.Chinese@Gmail.com*** 參與互動討論；
 
-　　如果您在使用「**Nirsoft 公用程式**」的過程中遇到任何問題，有任何的建議、意見，或發現了軟體錯誤，請透過電郵 ***nirsofer@yahoo.com*** 與 **開發者** ([***Nir Sofer***](http://www.nirsoft.net/about_nirsoft_freeware.html)) 聯絡。
+　　如果您在使用「**Nirsoft 公用程式**」的過程中遇到任何問題，有任何的建議、意見，或發現了軟體錯誤，請透過電子郵件 ***nirsofer@yahoo.com*** 與 **開發者** ([***Nir Sofer***](http://www.nirsoft.net/about_nirsoft_freeware.html)) 聯絡。
   
